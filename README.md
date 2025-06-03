@@ -7,8 +7,7 @@ Currently, I am looking for positions that could leverage my skills in marketing
 
 
 <br>● Programming:‬‭ Python (NumPy, Pandas, Beautiful Soup,‬‭ Selenium), SQL, R, JavaScript, HTML/CSS‬
-<br>● Data & Cloud Technologies:‬‭ AWS (Lambda, DynamoDB,EC2,S3),‬‭ Azure SQL, Snowflake, KNIME,‬
-‭   Tableau, PowerBI, Neo4j‬
+<br>● Data & Cloud Technologies:‬‭ AWS (Lambda, DynamoDB,EC2,S3),‬‭ Azure SQL, Snowflake, KNIME,‬ Tableau, PowerBI, Neo4j‬
 <br>● Tools & CRM:‬‭ HubSpot, Salesforce, Excel, Figma, Adobe‬‭ Creative Cloud, Microsoft Office‬
 <br>● Certifications:‬‭ AWS Certified Cloud Practitioner,‬‭ Google Data Analytics, Google AI Essentials‬
 ‭
