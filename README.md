@@ -6,6 +6,15 @@ I currently finished my master degree in Business Analytics at University of Ill
 Currently, I am looking for positions that could leverage my skills in marketing and analytics. Please feel free to contact me if you are interested in my portfolio.
 
 
+● Programming:‬‭ Python (NumPy, Pandas, Beautiful Soup,‬‭ Selenium), SQL, R, JavaScript, HTML/CSS‬
+● Data & Cloud Technologies:‬‭ AWS (Lambda, DynamoDB,EC2,S3),‬‭ Azure SQL, Snowflake, KNIME,‬
+‭   Tableau, PowerBI, Neo4j‬
+● Tools & CRM:‬‭ HubSpot, Salesforce, Excel, Figma, Adobe‬‭ Creative Cloud, Microsoft Office‬
+● Certifications:‬‭ AWS Certified Cloud Practitioner,‬‭ Google Data Analytics, Google AI Essentials‬
+‭
+
+
+
 <!---
 ShiiCSY/ShiiCSY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
