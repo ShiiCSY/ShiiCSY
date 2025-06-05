@@ -12,8 +12,8 @@ Currently, I am looking for positions that could leverage my skills in marketing
 <br>● Certifications:‬‭ AWS Certified Cloud Practitioner,‬‭ Google Data Analytics, Google AI Essentials‬
 ‭
 
-<br>📫 email:edwardchen29@gmail.com
-<br> How to reach me: Message me on [](LinkedIn).
+<br>📫 **email:** edwardchen29@gmail.com
+<br> **How to reach me:** Message me on [LinkedIn](https://www.linkedin.com/in/edwardshihyichen/).
 
 <!---
 ShiiCSY/ShiiCSY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
